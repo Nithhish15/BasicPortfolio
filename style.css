@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(219, 193, 159);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.heading,
+.about,
+.skills,
+.contact{
+    background-color: antiquewhite;
+    width: auto;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 10px;   
+}
+.contact a{
+    text-decoration: none;
+    color: rgb(50, 162, 227);
+    text-shadow: 1px -1px 1px rgb(250, 250, 250);  
+}
